@@ -6,6 +6,7 @@ import java.util.Iterator;
 public abstract class AnyPicture implements Picture {
 	protected int width;
 	protected int height;
+	//ttests
 	public AnyPicture(int width, int height){
 		if(width < 0 ||
 				height < 0
